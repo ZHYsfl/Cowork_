@@ -2,3 +2,4 @@ this is a sentence.
 this is a new sentence.
 .
 add a new sentence after create a new ruleset.
+add a new
